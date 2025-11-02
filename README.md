@@ -7,8 +7,8 @@ This project is a testament to the power of the MERN stack for building robust, 
 ---
 
 ## 🌟 Live Demo
-
-* **Frontend:** [[Your Render URL](https://onecart-frontend1-kc30.onrender.com)]
+Login Directly Using E-mail : hello@gmail.com  and Password : hello123
+* **Frontend:** [[Your Render URL](https://onecart-frontend1-kc30.onrender.com)]     
 * **Backend API:** [[Your Render URL](https://onecart-backend-jvxq.onrender.com)]
 * **Admin Dashboard:** [[Your Admin Demo URL](https://onecart-admin-9xya.onrender.com)]
 
