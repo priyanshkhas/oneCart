@@ -7,8 +7,8 @@ This project is a testament to the power of the MERN stack for building robust, 
 ---
 
 ## 🌟 Live Demo
-Login for User Dashboard Directly Using E-mail : hello@gmail.com  and Password : hello123
-Login for Admin Dashborad Directly USing E-mail : admin@onecart.com  and Password : admin1234567
+* Login for User Dashboard Directly Using E-mail : hello@gmail.com  and Password : hello123
+* Login for Admin Dashborad Directly USing E-mail : admin@onecart.com  and Password : admin1234567
 * **Frontend:** [[Your Render URL](https://onecart-frontend1-kc30.onrender.com)]     
 * **Backend API:** [[Your Render URL](https://onecart-backend-jvxq.onrender.com)]
 * **Admin Dashboard:** [[Your Admin Demo URL](https://onecart-admin-9xya.onrender.com)]
